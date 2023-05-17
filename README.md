@@ -1,1 +1,1 @@
-# componente-comune2
+README FILE
